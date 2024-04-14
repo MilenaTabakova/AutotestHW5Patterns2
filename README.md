@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/eth2p6tj63ape6y4?svg=true)](https://ci.appveyor.com/project/MilenaTabakova/autotesthw5patterns2)
